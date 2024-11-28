@@ -21,7 +21,7 @@ My journey in the tech world has been driven by my curiosity and love for creati
 
 Here are some of the notable projects I have worked on:
 
-### [Project 1](https://github.com/iman-ali-ali/Task-Management)
+### [Project 1](https://github.com/iman-abouelgoud/Task-Management)
 Task Management Application: A web-based task management solution built with Laravel, featuring project organization and dynamic task prioritization.
 
 ## 📫 Let's Connect
