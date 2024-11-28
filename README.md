@@ -24,6 +24,10 @@ Here are some of the notable projects I have worked on:
 ### [Project 1](https://github.com/iman-abouelgoud/Task-Management)
 Task Management Application: A web-based task management solution built with Laravel, featuring project organization and dynamic task prioritization.
 
+### [Project 2](https://github.com/iman-abouelgoud/Articles-REST-API)
+Articles-REST-API : A REST API Articles solution built with Laravel, featuring listing, creating, adding, editting and deleting articles, and also register, login and logout a user using "Sanctum" for API Tokens.
+
+
 ## 📫 Let's Connect
 
 - 📧 [Email](mailto:iman.ali.work@gmail.com)
