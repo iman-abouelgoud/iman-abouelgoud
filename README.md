@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-👋 Hi, I'm Iman Ali, a passionate and accomplished Senior Backend Engineer with over 6 years of experience in PHP and Laravel development. 
+👋 Hi, I'm Iman Abouelgoud, a passionate and accomplished Senior Backend Engineer with over 6 years of experience in PHP and Laravel development. 
 My journey in the tech world has been driven by my curiosity and love for creating efficient and user-centric software solutions.
 
 ## 🚀 About Me
@@ -27,10 +27,10 @@ Task Management Application: A web-based task management solution built with Lar
 ## 📫 Let's Connect
 
 - 📧 [Email](mailto:iman.ali.work@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/iman-ali-ali)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iman-abouelgoud)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
 ---
 
-⭐️ From [iman-ali-ali](https://github.com/iman-ali-ali)
+⭐️ From [iman-abouelgoud](https://github.com/iman-abouelgoud)
