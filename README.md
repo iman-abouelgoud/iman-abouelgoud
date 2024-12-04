@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-👋 Hi, I'm Iman Abouelgoud, a passionate and accomplished Senior Backend Engineer with over 6 years of experience in PHP and Laravel development. 
+👋 Hi, I'm Iman Abouelgoud, a passionate and accomplished Senior Backend Engineer with over 8 years of experience in PHP and Laravel development. 
 My journey in the tech world has been driven by my curiosity and love for creating efficient and user-centric software solutions.
 
 ## 🚀 About Me
@@ -16,6 +16,12 @@ My journey in the tech world has been driven by my curiosity and love for creati
 - **Frameworks:** Laravel, Vue.js, jQuery
 - **Tools:** Git, Linux, Composer
 - **Methodologies:** Agile, Scrum
+
+- Backend Development
+
+- **Languages:** PHP
+- **Frameworks:** Laravel, Drupal
+- **Principles:** Object-Oriented Programming (OOP), SOLID, Clean Architecture
 
 ## 📈 My Projects
 
