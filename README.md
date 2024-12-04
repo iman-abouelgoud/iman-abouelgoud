@@ -11,12 +11,6 @@ My journey in the tech world has been driven by my curiosity and love for creati
 - 🌍 Open to remote work and collaborations on exciting projects.
 
 ## 🛠️ My Skills
-
-- **Languages:** PHP, JavaScript, SQL
-- **Frameworks:** Laravel, Vue.js, jQuery
-- **Tools:** Git, Linux, Composer
-- **Methodologies:** Agile, Scrum
-
   ## Backend Development
 
   - **Languages:** PHP
