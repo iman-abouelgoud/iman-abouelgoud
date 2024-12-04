@@ -19,9 +19,9 @@ My journey in the tech world has been driven by my curiosity and love for creati
 
   ## Backend Development
 
-- **Languages:** PHP
-- **Frameworks:** Laravel, Drupal
-- **Principles:** Object-Oriented Programming (OOP), SOLID, Clean Architecture
+  - **Languages:** PHP
+  - **Frameworks:** Laravel, Drupal
+  - **Principles:** Object-Oriented Programming (OOP), SOLID, Clean Architecture
 
 ## 📈 My Projects
 
