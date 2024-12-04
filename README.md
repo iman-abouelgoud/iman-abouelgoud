@@ -17,7 +17,7 @@ My journey in the tech world has been driven by my curiosity and love for creati
 - **Tools:** Git, Linux, Composer
 - **Methodologies:** Agile, Scrum
 
-- Backend Development
+  ## Backend Development
 
 - **Languages:** PHP
 - **Frameworks:** Laravel, Drupal
