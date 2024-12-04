@@ -17,6 +17,34 @@ My journey in the tech world has been driven by my curiosity and love for creati
   - **Frameworks:** Laravel, Drupal
   - **Principles:** Object-Oriented Programming (OOP), SOLID, Clean Architecture
 
+  ### Frontend Technologies
+
+  - **Frameworks & Libraries:** Livewire, Vue.js, Alpine.js
+  - **Core Technologies:** HTML5, CSS3, JavaScript, Tailwind CSS
+
+  ### API Development
+
+  - **API Design:** RESTful APIs
+  - **Documentation:** Swagger
+
+  ### Database Management
+
+  - **Databases:** MySQL, Firebase
+  - **Optimization Techniques:**
+    - SQL query optimization
+    - Global data sharing
+    - Caching strategies
+    - Eager Loading
+
+### Methodologies & Tools
+  - Git
+  - Linux
+  - Agile
+  - SCRUM
+  - SOLID Principles
+  - Clean Architecture
+
+
 ## 📈 My Projects
 
 Here are some of the notable projects I have worked on:
